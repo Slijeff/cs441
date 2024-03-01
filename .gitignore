@@ -3,3 +3,4 @@ venv
 /*/**.npz
 .ipynb_checkpoints
 .cache
+*/**.pdf
