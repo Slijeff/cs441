@@ -4,3 +4,4 @@ venv
 .ipynb_checkpoints
 .cache
 */**.pdf
+.DS_Store
