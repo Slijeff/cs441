@@ -1,7 +1,11 @@
 .idea
 venv
+data
 /*/**.npz
 .ipynb_checkpoints
 .cache
 */**.pdf
 .DS_Store
+**/*.json
+flowers-102
+checkpoints
